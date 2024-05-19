@@ -1,0 +1,6 @@
+{
+  "out": "./drizzle",
+  "schema": "./src/db/schema.ts",
+  "dialect": "postgresql",
+  "breakpoints": true
+}
